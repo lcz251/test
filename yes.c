@@ -1,5 +1,6 @@
-inchlidejdjjdj
-ndjjekski
-int 
-main()
-#include 	
+#include <stdio.h>
+int main()
+{
+	//your code
+	return 0;
+}
