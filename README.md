@@ -18,5 +18,5 @@ markdown git c/c++ programm
 5. to be continue
 6. utd
 ## gcc process
-![gcc](https://github.com/lcz215/test/blob/main/ccomplier.jpg)
+<img height="600" src="https://github.com/lcz215/test/blob/main/ccomplier.jpg">
 
