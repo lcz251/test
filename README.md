@@ -23,3 +23,7 @@ markdown git c/c++ programm
 <img height="50%" 
 src="https://github.com/lcz215/test/blob/main/ccomplier.jpg">
 
+## linux shell
+1.type -t command
+2.type -a command
+3.help -d-m-s command
