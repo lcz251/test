@@ -26,4 +26,6 @@ src="https://github.com/lcz215/test/blob/main/ccomplier.jpg">
 ## linux shell
 1.type -t command
 2.type -a command
+#builtin keyword function hashed
 3.help -d-m-s command
+
