@@ -1,4 +1,4 @@
-project name; no idea
+project name: no idea
 ==============
 project description: use for .etc/
 may be prac such as 
