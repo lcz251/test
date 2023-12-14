@@ -1,7 +1,13 @@
 ### 2023/12/15
-- linux 
-- pcb
+- linux  >> tree directory
+- pcb layout  mcu boot  
 - float type c in momery s e b  
+- tool
+  - c/cpp  
+  - python
+  - go  
+  - php
+  - assembly  
 - docker  
 - markdown reset
 - intel n100 machine
