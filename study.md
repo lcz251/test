@@ -1,3 +1,20 @@
+### 2023/12/16
+- html css js  
+- chatgpt geminer
+- open source project 
+  - 30day for os  
+  - linux source
+  - binwalk
+  - ecos 
+  - my daydayup at gitee  
+- net beyond 
+  - zero trust
+  - 1.1.1.1 by cloudflare
+  - clash
+  - v2ray
+  - frp
+  - 
+--- 
 ### 2023/12/15
 - linux  >> tree directory
 - pcb layout  mcu boot  
