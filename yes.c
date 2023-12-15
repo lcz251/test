@@ -3,7 +3,8 @@
 int main()
 {
 printf("hello,world,hello github!\n");
-
+for(int i=0;i<10;i++)
+printf("%d\n",i++);
 	//your code
 	return 0;
 }
