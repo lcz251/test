@@ -3,3 +3,6 @@
 #define yes
 void xcode(void);
 #endif
+int add(int x,int y){
+return x+y;
+}
