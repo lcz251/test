@@ -1,3 +1,13 @@
+### 2023/12/17
+- go
+- other  
+  * family roof*2  repair
+     + need hole 
+     + cut tree
+     + waterh material sands gray powder
+  * wall  refresh
+  * mucai
+----
 ### 2023/12/16
 - html css js  
 - chatgpt geminer
