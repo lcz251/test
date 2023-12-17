@@ -4,3 +4,22 @@ how about your idea,no sense
 ok ,ggg
 git dev
 xyz
+
+git branch
+git remote
+git status
+git checkout
+git log
+git push
+git fetch
+git pull
+git merge
+git add
+git commit
+git rm
+git mv
+git restore
+git push --delete origin dev
+git push origin dev
+git branch -a
+
