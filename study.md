@@ -3,6 +3,7 @@
 - int unsigned type  
 - net iw wlan  119？181？
 - emmbed dev 
+- high voltage issue
 ---
 ### 2023/12/18
 - docker 
