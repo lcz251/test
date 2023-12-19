@@ -3,7 +3,11 @@
 - int unsigned type  
 - net iw wlan  119？181？
 - emmbed dev 
-- high voltage issue
+- high voltage issue  
+- hinas MV100  
+- mysql sqlite
+- nginx
+- alist  
 ---
 ### 2023/12/18
 - docker 
