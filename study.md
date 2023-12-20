@@ -1,3 +1,8 @@
+### 2023/12/20
+- notepad++  
+- c bit  
+- 
+---
 ### 2023/12/19
 - docker mysql  
 - int unsigned type  
