@@ -1,3 +1,9 @@
+### 2023/12/21
+- shell >  
+- c stdlib  
+- c wheel  dependence
+- 
+---
 ### 2023/12/20
 - notepad++  
 - c bit  
