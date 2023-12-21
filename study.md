@@ -1,13 +1,15 @@
 ### 2023/12/21
 - shell >  
 - c stdlib  
-- c wheel  dependence
-- 
+- c wheel  depence
+- termux is good linux
+- php need
+- mysql mariadb sqlite 
 ---
 ### 2023/12/20
 - notepad++  
 - c bit  
-- 
+- too much study but unuse
 ---
 ### 2023/12/19
 - docker mysql  
