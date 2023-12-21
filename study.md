@@ -1,3 +1,8 @@
+###2023/12/22
+- alist -> study  linux 
+- gcc cross e  
+- how to study and in use
+---
 ### 2023/12/21
 - shell >  
 - c stdlib  
