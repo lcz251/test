@@ -1,3 +1,9 @@
+### 2023/12/23
+- embed system  
+- imhex using
+- fork 
+- 51
+---
 ###2023/12/22
 - alist -> study  linux 
 - gcc cross e  
