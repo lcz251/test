@@ -1,3 +1,11 @@
+### 2023/12/24
+- linux kernel
+- Bluetooth car and earphone 
+- car repair
+- car set
+- termux set
+- my shoes
+---
 ### 2023/12/23
 - embed system  
 - imhex using
