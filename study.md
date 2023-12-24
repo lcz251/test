@@ -1,3 +1,11 @@
+### 2023/12/25
+- awk grep sed
+- which whereis location find
+- shell script
+- arch driver kernel fs ipc mm and so on
+- bluetooth in using
+- merry cherismes
+---
 ### 2023/12/24
 - linux kernel
 - Bluetooth car and earphone 
