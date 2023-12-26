@@ -1,3 +1,10 @@
+### 2023/12/27
+- mysql sqlite
+- assembly
+- youtube
+- gpu
+
+---
 ### 2023/12/26
 - 8266  
 - bluetooth price is so low,unnessary to repair the battary
