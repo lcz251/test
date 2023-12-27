@@ -1,8 +1,23 @@
-### 2023/12/26
+<<<<<<< HEAD
+### 2023/12/28
 - network is error
 - sleep
 - embed system
 - 9,3,1/10 on loading
+=======
+### 2023/12/27
+- mysql sqlite
+- assembly
+- youtube
+- gpu
+
+---
+### 2023/12/26
+- 8266  
+- bluetooth price is so low,unnessary to repair the battary
+- so be it
+
+>>>>>>> 4879390a152a1360e758e8f0479592edc690c164
 ---
 ### 2023/12/25
 - awk grep sed
@@ -10,7 +25,7 @@
 - shell script
 - arch driver kernel fs ipc mm and so on
 - bluetooth in using
-- merry cherismes
+- merry christmes
 ---
 ### 2023/12/24
 - linux kernel
