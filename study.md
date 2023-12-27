@@ -1,3 +1,9 @@
+### 2023/12/26
+- network is error
+- sleep
+- embed system
+- 9,3,1/10 on loading
+---
 ### 2023/12/25
 - awk grep sed
 - which whereis location find
