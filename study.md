@@ -1,4 +1,10 @@
-<<<<<<< HEAD
+### 2023/12/29 last workday
+- network repaire frp 
+- docker
+- v2ray
+- alist
+- backup
+---
 ### 2023/12/28
 - network is error
 - sleep
@@ -16,8 +22,6 @@
 - 8266  
 - bluetooth price is so low,unnessary to repair the battary
 - so be it
-
->>>>>>> 4879390a152a1360e758e8f0479592edc690c164
 ---
 ### 2023/12/25
 - awk grep sed
