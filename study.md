@@ -1,3 +1,8 @@
+### 2023/12/29
++ power good
++ CPU
++ tired
+---
 ### 2023/12/29 last workday
 - network repaire frp 
 - docker
