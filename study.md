@@ -1,4 +1,13 @@
-### 2023/12/29
+### 2023/12/31 -last day
+- snake
+- dianju
+- meat
+- plastic roof
+- aunt
+- fire
+- keyboard
+---
+### 2023/12/30
 + power good
 + CPU
 + tired
