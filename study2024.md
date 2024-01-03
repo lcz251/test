@@ -24,3 +24,11 @@
 - tcp
 - can
 ---
+### 2024/1/4
+- eda
+- pcb
+- js
+- kernel
+- bash >
+- soc 
+---
