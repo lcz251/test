@@ -32,3 +32,9 @@
 - bash >
 - soc 
 ---
+### 2024/1/5
+- c pointer
+- ncdu neofetch ranger hollywood speedread htop
+- bash commmand >file 2&1
+- lsmod 
+---
