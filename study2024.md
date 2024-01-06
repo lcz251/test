@@ -55,3 +55,13 @@ sleep 2
 ```
 - bash {a..z}
 ---
+### 2024/1/7
+- switch power supplier
+- pcb 
+- stm32
+- make money
+- markdown makefile
+- alist trash aliyunpan daily
+- contreb 0 0 * 5 * echo `date` >> log
+- j1900 with dual Gb Lan
+---
