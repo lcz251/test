@@ -38,3 +38,14 @@
 - bash commmand >file 2&1
 - lsmod 
 ---
+### 2024/1/6
+- dns
+- cloudflare
+- bombfork  
+```
+:(){:|:&};:
+ulimit -u 16
+sleep 2
+```
+- bash {a..z}
+---
