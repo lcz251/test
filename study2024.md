@@ -41,7 +41,7 @@
   + hollywood 
   + speedread 
   + htop
-- bash commmand >file 2&1
+- bash commmand > file 2&1
 - lsmod 
 ---
 ### 2024/1/6
@@ -64,4 +64,5 @@ sleep 2
 - alist trash aliyunpan daily
 - contreb 0 0 * 5 * echo `date` >> log
 - j1900 with dual Gb Lan
+![ccomplier](./ccomplier.jpg "ccomplier")
 ---
