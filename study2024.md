@@ -64,5 +64,13 @@ sleep 2
 - alist trash aliyunpan daily
 - contreb 0 0 * 5 * echo `date` >> log
 - j1900 with dual Gb Lan
-![ccomplier](./ccomplier.jpg "ccomplier")
+---
+### 2024/1/8
+- stc51 vs stm32 1820
+- makifile
+- v2ray
+- frpc
+- alist xiaoya
+- libtest.so libtest.a
+
 ---
