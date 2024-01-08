@@ -72,5 +72,11 @@ sleep 2
 - frpc
 - alist xiaoya
 - libtest.so libtest.a
-
 ---
+### 2024/1/9 
+- makefile 
+- led lcd repire
+- markdown
+|a|b|c|d|
+|-|-|-|-|
+|1|2|3|4|
