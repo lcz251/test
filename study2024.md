@@ -76,7 +76,9 @@ sleep 2
 ### 2024/1/9 
 - makefile 
 - led lcd repire
-- markdown  
+-  markdown  insert picture  
+![pp](https://github.com/lcz251/ImageCache/raw/master/ccomplier.png) 
+- markdown table  
 |a|b|c|d|  
 |:--|----|----|----:|  
 |1|2|3|4|  
