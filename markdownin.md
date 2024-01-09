@@ -5,7 +5,7 @@ README
 
 ****
 
-|作者|果冻虾仁|
+|copyer|lcz251|
 |---|---
 |知乎|[![zhihu-shield]][zhihu]
 |公众号|编程往事
