@@ -79,11 +79,10 @@ sleep 2
 -  markdown  insert picture  
 ![](http://www.baidu.com/img/bdlogo.gif)  
  
-![](https://github.com/lcz251/test/raw/main/pic/icloud.png)  
+![](https://github.com/lcz251/test/blob/main/pic/icloud.png)  
 
-<img src="https://github.com/lcz251/test/raw/main/pic/icloud.png" >    
+<img src="https://github.com/lcz251/test/blob/main/pic/icloud.png" >    
 
-<img src="http://static.runoob.com/images/runoob-logo.png">
 <img src="http://static.runoob.com/images/runoob-logo.png">
 
 - markdown table  
