@@ -94,3 +94,21 @@ sleep 2
 - asm -> c -> c++ -> shell -> python
 - n270 100  j1900 11500g
 - 
+### 2024/1/11
+- pve pro.js debug backup everywhere
+- makrdown #dot
+#[sot]  
+use <kbd>Alt</kbd>  
+$$
+\begin{Bmatrix}
+   a & b \\
+   c & d
+\end{Bmatrix}
+$$
+$$
+\begin{CD}
+   A @>a>> B \\
+@VbVV @AAcA \\
+   C @= D
+\end{CD}
+$$
