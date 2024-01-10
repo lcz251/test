@@ -9,6 +9,7 @@
 - car crash and wash
 - wait for customer
 ---
+### DOT
 ### 2024/1/2 first workday of this year
 + early everything
 + vue
@@ -73,6 +74,7 @@ sleep 2
 - alist xiaoya
 - libtest.so libtest.a
 ---
+### PPZ
 ### 2024/1/9 
 - makefile 
 - `led` lcd repire
@@ -111,6 +113,6 @@ use <kbd>Alt</kbd>
      C @= D
   \end{CD}
   $$  
-[today](#2024/1/10)
-[now](#2024\/1\/8)
+[dot](#dot)
+[ppz](#ppz)
 ---
