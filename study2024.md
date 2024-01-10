@@ -96,21 +96,21 @@ sleep 2
 - 
 ### 2024/1/11
 - pve pro.js debug backup everywhere
-- makrdown #dot
-#[sot]  
+- makrdown  
 use <kbd>Alt</kbd>  
-$$
-\begin{Bmatrix}
-   a & b \\
-   c & d
-\end{Bmatrix}
-$$
-$$
-\begin{CD}
-   A @>a>> B \\
-@VbVV @AAcA \\
-   C @= D
-\end{CD}
-$$  
+  $$
+  \begin{Bmatrix}
+     a & b \\
+     c & d
+  \end{Bmatrix}
+  $$
+  $$
+  \begin{CD}
+     A @>a>> B \\
+    @VbVV @AAcA \\
+     C @= D
+  \end{CD}
+  $$  
 [today](#2024/1/10)
+[now](#2024\/1\/8)
 ---
