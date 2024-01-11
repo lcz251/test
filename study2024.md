@@ -116,3 +116,11 @@ use <kbd>Alt</kbd>
 [dot](#dot)
 [ppz](#ppz)
 ---
+###2024/1/12
+- css HTML js debugger
+- pve repired
+- double networks and how is work
+- <kbd>xtrl </kbd> `tab`
+- json vscode
+---
+
