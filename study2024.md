@@ -1,4 +1,4 @@
-#### TOP [buttom](#buttom)
+#### TOP [bot](#bot)
 
 ### 2024/1/1
 - happy new year
@@ -125,4 +125,4 @@ use <kbd>Alt</kbd>
 - <kbd>xtrl </kbd> `tab`
 - json vscode
 ---
-#### BUTTOM [top](#top)
+#### BOT  [top](#top)
