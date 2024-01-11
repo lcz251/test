@@ -1,4 +1,4 @@
-#### TOP [bottom](#buttom)
+#### TOP [buttom](#buttom)
 
 ### 2024/1/1
 - happy new year
