@@ -132,10 +132,10 @@ use <kbd>Alt</kbd>
 - linux distro sample boot .img init .pci
 - soft router can buy n100 recommand
 - plan
- + [x] markdown pratice
- + [ ] domains need
- + [ ] chatgpt works
- + [ ] else
+ >> + [x] markdown pratice
+ >> + [ ] domains need
+ >> + [ ] chatgpt works
+ >> + [ ] else
 
 
 #### BOT  [top](#top)
