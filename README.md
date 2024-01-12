@@ -1,4 +1,4 @@
-Project Name: ToBeAlone
+## Project Name: ToBeAlone
 ==============
 project description: use for .etc/
 may be practice such as  
@@ -9,19 +9,19 @@ may be practice such as
 5. net  
 
 ----
-## dependence
+### dependence
 1. windows :mvsv
 2. linux : gnu gcc make
 3. macos : unkown
 
-## file
+### file
 1. src  .c .h
 2. makefile
 3. read.md
 4. readme-cn.md
 5. to be continue
 6. utd
-## gcc process
+### gcc process
 <!-- 
 ![gccprocess]("https://github.com/lcz215/test/blob/main/ccomplier.jpg"
 )
@@ -29,7 +29,7 @@ may be practice such as
 src="https://github.com/lcz215/test/blob/main/ccomplier.jpg">
 -->
 
-## linux shell  
+### linux shell  
 1.type -t command  
 2.type -a command  
 #builtin keyword function hashed  
