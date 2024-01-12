@@ -1,8 +1,12 @@
-project name: no idea
+Project Name: ToBeAlone
 ==============
 project description: use for .etc/
-may be prac such as 
-markdown git c/c++ programm
+may be practice such as  
+1. markdown
+2. git 
+3. c/c++ programm
+4. linux
+5. net  
 
 ----
 ## dependence
