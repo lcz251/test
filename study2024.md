@@ -125,6 +125,19 @@ use <kbd>Alt</kbd>
 - <kbd>xtrl </kbd> `tab`
 - json vscode
 ---
+### 2024/1/13
+- warp zerotrust ios failed
+- wave by c
+- domains for free failed
+- linux distro sample boot .img init .pci
+- soft router can buy n100 recommand
+- plan
+ + [*] markdown pratice
+ + [ ] domains need
+ + [ ] chatgpt works
+ + [ ] else
+
+
 #### BOT  [top](#top)
 
 
