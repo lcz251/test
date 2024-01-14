@@ -136,6 +136,29 @@ use <kbd>Alt</kbd>
  >> + [ ] domains need
  >> + [ ] chatgpt works
  >> + [ ] else
+---
+### 2024/1/14 sunday
+- linux and shell  command
+- hardware
+  - n100
+  - electronic r c l d q u
+  - all in one:openwrt ikuai,nas,win or linux
+    - pve 
+    - exsi
+- w3m can protel
+- net
+  - cloudflare 
+  - zerotrust
+  - dotn
+  - v2ray
+  - cdn
+  - chatgpt
+  - frp
+  - telegram
+  - whatapp
+  - netflex
+  - alist-> xiaoya
+---
 
 
 #### BOT  [top](#top)
