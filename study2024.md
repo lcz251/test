@@ -159,7 +159,17 @@ use <kbd>Alt</kbd>
   - netflex
   - alist-> xiaoya
 ---
-
+### 2024/1/15
+- c main with para
+```
+int main(int argc,char **argv){
+/ ..code../
+return 0;
+}
+```
+- bash 
+- net
+---
 
 #### BOT  [top](#top)
 
