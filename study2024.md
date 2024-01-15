@@ -172,8 +172,8 @@ return 0;
  + tools:warp   v2ray ssr clash
  + target visit: Google youtube telegram chatgpt netflex
  + plat:ios  android windows   
-|plat\target|Goolge| youtube| telegram/whatapp| chatgpt/netflex|
-|---|---|---|---|---|
+| plat\target | Goolge | youtube |  telegram/whatapp | chatgpt/netflex |
+| --- | --- | --- | --- | --- |
 |windows|all|all|--|--|
 |android|all|all|-v2ray|---|
 |ios|all|all|all|---|
