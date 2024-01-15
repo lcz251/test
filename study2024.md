@@ -174,9 +174,9 @@ return 0;
  + plat:ios  android windows   
 | plat\target | Goolge | youtube |  telegram/whatapp | chatgpt/netflex |
 | --- | --- | --- | --- | --- |
-|windows|all|all|--|--|
-|android|all|all|-v2ray|---|
-|ios|all|all|all|---|
+| windows | all | all | -- | -- |
+| android | all | all | -v2ray | --- |
+| ios|all | all | all | --- |
 ---
 ### 2024/1/16
 - chatgpt user
