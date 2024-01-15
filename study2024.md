@@ -168,13 +168,36 @@ return 0;
 }
 ```
 - bash 
-- net warp   v2ray ss clash
-visit Google youtub telegram chatgpt 
- + ios  warp/v2ray/ss
- + Android warp/v2ray/ss
- + windows warp/v2ray/ss
+- net 
+ + tools:warp   v2ray ssr clash
+ + target visit: Google youtube telegram chatgpt netflex
+ + plat:ios  android windows
+|plat\target|Goolge| youtube| telegram/whatapp| chatgpt/netflex|
+|---|---|---|---|---|
+|windows|all|all|--|--|
+|android|
+|ios|
 ---
-
+### 2024/1/16
+- chatgpt user
+- domains
+- n100 reports after sold
+- gdb with tui
+```
+gdb exefile
+b main
+r
+help layout tui
+layout next
+layout pre
+layout asm
+layout list
+layout register
+```
+- new pve run: ikuai istore openwrt nas-dms  win11
+> two eth how to
+> maybe win-cilent in certos check the eth
+- c code
 #### BOT  [top](#top)
 
 
