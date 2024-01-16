@@ -200,7 +200,12 @@ layout register
 > maybe win-cilent in certos check the eth
 - c code
 ---
-#### BOT  [top](#top)
+### 2024/1/17
+- git pull push error in linux
+- too long to go
+- rest today
+---
+#### BOT  [top](#top)  
 this is the buttom  
 ===
 
