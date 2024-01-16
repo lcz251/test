@@ -202,6 +202,8 @@ layout register
 ---
 ### 2024/1/17
 - git pull push error in linux
+> with v2ray cant connect github.com 22
+> with warp is yes
 - too long to go
 - rest today
 ---
