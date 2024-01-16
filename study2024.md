@@ -173,11 +173,11 @@ return 0;
  + target visit: Google youtube telegram chatgpt netflex
  + plat:ios  android windows   
 
-| plat\target | Goolge | youtube |  telegram/whatapp | chatgpt/netflex |  
+| plat\target | Google | youtube |  telegram/whatapp | chatgpt/netflex |  
 | :--- | --- | --- | --- | ---: |  
 | windows | all | all | -- | -- |  
-| android | all | all | -v2ray | --- |  
-| ios|all | all | all | --- |   
+| android | all | -warp | -v2ray | -warp |  
+| ios | all | all | all | -warp |   
 ---
 ### 2024/1/16
 - chatgpt user
