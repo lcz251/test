@@ -215,10 +215,18 @@ layout register
   - review detail with coding problems  
 - j1900 windows can not conelnect, but adpter is ok, pci driver is error
 - no sugur,fat,less salt,more sport
+- warship: heavary light
+ - battleship
+ - cruiser
+ - underwater ship /submarine
+ - destroy
+ - escort
+ - partal boat
+ - aircraft carrier
 ---
 
 #### BOT  [top](#top)  
-this is the buttom  
+##### this is the buttom  
 ===
 
 
