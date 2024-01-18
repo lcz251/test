@@ -223,6 +223,20 @@ layout register
  - escort
  - partal boat
  - aircraft carrier
+- code c: .code .data .heap .stack
+```
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+char a[]="data.password";
+int main(){
+int b= 999;
+char *c=malloc(14);
+strncpy(c,"heap in c",10);
+printf("a addr=%p\n,b addr =%p\n,c addr =%p\n,main =%p\n",&a,&b,c,main);
+return 0;
+}
+```
 ---
 
 #### BOT  [top](#top)  
