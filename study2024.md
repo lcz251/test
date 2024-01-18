@@ -233,14 +233,19 @@ int main(){
 int b= 999;
 char *c=malloc(14);
 strncpy(c,"heap in c",10);
-printf("a addr=%p\n,b addr =%p\n,c addr =%p\n,main =%p\n",&a,&b,c,main);
+printf("a addr=%p\nb addr =%p\nc addr =%p\nmain =%p\n"&a,&b,c,main);
 return 0;
 }
 ```
 ---
-
-#### BOT  [top](#top)  
-##### this is the buttom  
+### 2024/1/19
+- go golang
+- j1900 windows no connect,realization
+- after 7:00
+---
+#### BOT    
+##### this is the buttom   
+[top](#top)
 ===
 
 
