@@ -207,6 +207,16 @@ layout register
 - too long to go
 - rest today
 ---
+### 2024/1/18 
+- cpp opensource project 6
+- how to start coding，
+  - not only reading
+  - major reading then coding
+  - review detail with coding problems  
+- j1900 windows can not conelnect, but adpter is ok, pci driver is error
+- no sugur,fat,less salt,more sport
+---
+
 #### BOT  [top](#top)  
 this is the buttom  
 ===
