@@ -248,6 +248,11 @@ return 0;
 - much and more 
 - bash and insert mode ib vim
 ---
+### 2024/1/21
+- alist xiaoya vbox emby 
+- repaire washing machine,boring,back cs
+- keyboard,
+---
 #### BOT    
 ##### this is the buttom   
 [top](#top)
