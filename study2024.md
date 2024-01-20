@@ -243,6 +243,11 @@ return 0;
 - j1900 windows no connect,realization
 - after 7:00
 ---
+### 2024/1/20
+- Vim technolog
+- much and more 
+- bash and insert mode ib vim
+---
 #### BOT    
 ##### this is the buttom   
 [top](#top)
