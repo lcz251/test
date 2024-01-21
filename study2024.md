@@ -253,6 +253,28 @@ return 0;
 - repaire washing machine,boring,back cs
 - keyboard,
 ---
+### 2024/1/22
+my hardware
+- 8G centrom win xp  by j1900,n270
+- 16G 44pin centos7 32bit n270 alone
+- netcontrol card
+  - wifi card plan n270 
+  - mpci card plan j1900
+  - usb card plan all
+  - type c card using in phone plan charge
+- 128G mssd allinone(pve:openert,dms,windows 7)
+- harddisk one 250G usb3.0 hians 
+- harddisk two at 320G j1900
+- 64G tfcard hainas
+- hinas too much function
+- s905la3 armbian 8G tf card same as hianas
+- china telecom iptv box 
+my software
+- skill
+- knowloge
+- resurce
+- other 
+---
 #### BOT    
 ##### this is the buttom   
 
