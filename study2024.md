@@ -268,7 +268,7 @@ my hardware
 - 64G tfcard hainas
 - hinas too much function
 - s905la3 armbian 8G tf card same as hianas
-- china telecom iptv box 
+- china telecom iptv box  
 my software
 - skill
 - knowloge
