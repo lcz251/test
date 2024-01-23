@@ -276,6 +276,13 @@ my software
 - resurce
 - other 
 ---
+### 2024/1/23
+- allinone 1 lan
+- allinbomb success but pve
+- allinbomb linux or win7
+- xp ng in j1900，try n270
+
+---
 #### BOT    
 ##### this is the buttom   
 
