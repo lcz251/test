@@ -281,7 +281,16 @@ my software
 - allinbomb success but pve
 - allinbomb linux or win7
 - xp ng in j1900，try n270
-
+---
+### 2024/1/24
+- hinas upgrade
+  - frp.toml 
+  - html
+  - test
+  - bashrc
+- bash ctrl w k l d c a e o
+- pve change ip addr secuess all in bomb
+- emby 
 ---
 #### BOT    
 ##### this is the buttom   
