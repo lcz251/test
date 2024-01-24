@@ -292,6 +292,11 @@ my software
 - pve change ip addr secuess all in bomb
 - emby 
 ---
+### 2024/1/25
+- openwrt 
+- hinas repire
+- xx
+---
 #### BOT    
 ##### this is the buttom   
 
