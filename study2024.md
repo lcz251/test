@@ -295,7 +295,12 @@ my software
 ### 2024/1/25
 - openwrt 
 - hinas repire
-- xx
+- xp in n270
+---
+### 2024/1/26
+- allinone win7 
+- c
+- linux
 ---
 #### BOT    
 ##### this is the buttom   
