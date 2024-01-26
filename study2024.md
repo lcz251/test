@@ -302,6 +302,11 @@ my software
 - c
 - linux
 ---
+### 2024/1/27
+- openwrt 
+- xinfa
+- kog
+---
 #### BOT    
 ##### this is the buttom   
 
