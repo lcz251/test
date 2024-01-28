@@ -307,6 +307,11 @@ my software
 - xinfa
 - kog
 ---
+### 2024/1/29
+- ubuntu in pve 222 
+- nas changed
+- frp
+---
 #### BOT    
 ##### this is the buttom   
 
