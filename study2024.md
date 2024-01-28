@@ -307,6 +307,12 @@ my software
 - xinfa
 - kog
 ---
+### 2024/1/28
+- n300 so expensive
+- warp ip
+- chatgpt
+- frp disconnect
+---
 #### BOT    
 ##### this is the buttom   
 
