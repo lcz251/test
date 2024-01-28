@@ -307,10 +307,18 @@ my software
 - xinfa
 - kog
 ---
+<<<<<<< HEAD
 ### 2024/1/29
 - ubuntu in pve 222 
 - nas changed
 - frp
+=======
+### 2024/1/28
+- n300 so expensive
+- warp ip
+- chatgpt
+- frp disconnect
+>>>>>>> da229fbb4737a1c582841fb29c4c556932059816
 ---
 #### BOT    
 ##### this is the buttom   
