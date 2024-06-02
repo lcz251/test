@@ -1,7 +1,7 @@
 ## Project Name: ToBeAlone
 'day day up' means knowledge is endless
 - 学不完，根本学不完
-- using is the target,around for man or money
+- using is the target,around for man or money  
 Project Description:   
 Use for .etc/
 may be practice such as:雕虫小技
