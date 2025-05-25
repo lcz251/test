@@ -27,10 +27,9 @@ may be practice such as:雕虫小技
 <!-- 
 ![gccprocess]("https://github.com/lcz215/test/blob/main/ccomplier.jpg"
 )
-![xx]("./pic/ccomplier.jpg")
 
 <img height="50%" 
-src="https://github.com/lcz215/test/blob/main/ccomplier.jpg">
+src="./pic/ccomplier.jpg">
 -->
 ---
 ### linux shell  
