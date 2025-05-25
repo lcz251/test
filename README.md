@@ -22,15 +22,12 @@ may be practice such as:雕虫小技
 4. readme-cn.md
 5. to be continue
 6. utd
-### gcc process
-![gccprocess]("http://lcz.lcz251.top/lwt/ee.jpg")
-<!-- 
+### gcc  
 ![gccprocess]("https://github.com/lcz215/test/blob/main/ccomplier.jpg"
 )
 
 <img height="50%" 
 src="./pic/ccomplier.jpg">
--->
 ---
 ### linux shell  
 1. type -t command  
