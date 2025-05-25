@@ -17,8 +17,7 @@ may be practice such as:雕虫小技
 3. macos : unkown
 ----
 ### file
-1. src  .c .h
-2. makefile
+1. src  .c .h. makefile
 3. read.md
 4. readme-cn.md
 5. to be continue
@@ -28,6 +27,8 @@ may be practice such as:雕虫小技
 <!-- 
 ![gccprocess]("https://github.com/lcz215/test/blob/main/ccomplier.jpg"
 )
+![xx]("./pic/ccomplier.jpg")
+
 <img height="50%" 
 src="https://github.com/lcz215/test/blob/main/ccomplier.jpg">
 -->
